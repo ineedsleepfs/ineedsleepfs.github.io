@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Egg's blog!"
 date:   2022-10-26 22:46:36 +0100
 categories: Welcome
+permalink: /welcome
 ---
 
 Hello! My name is Egg, and I am a 4th year student studying B.Sc. Computer Science
@@ -22,7 +23,7 @@ double-check the version (**ruby -v**) and in cmd, install Jekyll with **gem ins
 It's as straightforward as this gets.
 
 
-
+## Extra
 - It's quite straightforward.
 - The base template/layout is clean and simple.
 - I could do more with the website, but I will keep it minimalistic.
