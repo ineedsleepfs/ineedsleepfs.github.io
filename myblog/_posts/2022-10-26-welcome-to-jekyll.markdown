@@ -1,29 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Egg's blog!"
 date:   2022-10-26 22:46:36 +0100
-categories: jekyll update
+categories: Welcome
+permalink: /welcome
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Hello! My name is Egg, and I am a 4th year student studying B.Sc. Computer Science
+at University of Strathclyde. This marks the beginning of my 4th Years Honours Project
+where I implement my very own static site generator.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+I am currently trying to learn Jekyll so that I know what is to be expected when I create my own generator.
+So, this blog is essentially for me to gain a better understanding of how Jekyll works.
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+I WANT FIRST CLASS HONOURS!
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Installing Ruby and Jekyll
+The initial installation and set up was fairly straightforward. You download Ruby installer and run cmd to
+double-check the version (**ruby -v**) and in cmd, install Jekyll with **gem install jekyll bundler**.
+It's as straightforward as this gets.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+## Extra
+- It's quite straightforward.
+- The base template/layout is clean and simple.
+- I could do more with the website, but I will keep it minimalistic.
+- Part of the project is for me to explore the features of Jekyll and decide what I like and not like about this generator.
+
