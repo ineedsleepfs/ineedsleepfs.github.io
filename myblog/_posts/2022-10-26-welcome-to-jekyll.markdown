@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Egg's blog!"
 date:   2022-10-26 22:46:36 +0100
 categories: Welcome
-permalink: /welcome
+permalink: /welcome/
 ---
 
 Hello! My name is Egg, and I am a 4th year student studying B.Sc. Computer Science
